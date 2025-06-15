@@ -1,0 +1,59 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.text-center{
+    text-align: center;
+}
+
+.cont-align{
+    margin:auto;
+   
+}
+
+.lg-button{
+    padding: 0 50px 0 50px;
+}
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: blanchedalmond;
+}
+
+.lg-button-1{
+    padding: 20px 45px 20px 45px;
+    background-color: red;
+}
+
+.lg-button-2{
+    padding: 20px 51px 20px 51px;
+    background-color: rgb(87, 87, 221);
+}
+
+.fn-button{
+    background-color: cyan;
+}
+
+.dt-btn{
+    background-color: orange;
+    font-weight:700;
+}
+
+.row{
+    margin: 5px 0;
+}
+
+.row  .display{
+    font-size: 19px;
+    margin: 0px;;
+    padding: 6px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
